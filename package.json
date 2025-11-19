@@ -1,0 +1,11 @@
+{
+  "name": "iTrackCron",
+  "version": "1.0.0",
+  "main": "cron.js",
+  "scripts": {
+    "start": "node cron.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.0.0"
+  }
+}
